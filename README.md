@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-This repo contains Johnatan Garcia's portfolio and SPS projects.
+This repo contains Johnatan Garcia's portfolio and SPS projects test 2.
 To get started:
 
 - Login to [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor)
